@@ -1,0 +1,3 @@
+
+https://docs.google.com/document/d/1SSqP7Qe3h7WB0goyMf1EpqNfWlNwkyV6/edit
+https://dataplatform.cloud.ibm.com/gallery?context=cpdaas&format=notebook - IBM хаб подборка датасетов
