@@ -1,4 +1,4 @@
-# Data-Analysr-Coursera-IBM
+# Data-Analyst-Coursera-IBM
 
 #testrepo
 
